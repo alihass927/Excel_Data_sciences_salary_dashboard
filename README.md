@@ -109,7 +109,8 @@ IF(
 )
 )
 ```
-👇
+👇  
+
 ```(ISNUMBER((SEARCH(type,jobs[job_schedule_type]))))```  
 
  This is because the type of data i have in job_schduale_type colomn. The data availabel in mixed as shown below:  
